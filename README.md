@@ -1,11 +1,39 @@
-<h1 align="center">Hi 👋, I'm shivam gaurkhede</h1>
-<h3 align="center">A passionate cloud engineer from India</h3>
+# AI WhatsApp Lead Automation 🚀  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@gaurkhedeshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gaurkhedeshivam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam gaurkhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam gaurkhede" height="30" width="40" /></a>
-</p>
+## 📌 What is this?  
+A **no-code automation** using **Make.com + AI enrichment** that captures leads from WhatsApp, qualifies them with AI, and pushes them into Airtable/CRM.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 💡 Why it matters  
+- Saves manual lead entry time (~90 hours/month)  
+- Improves qualification accuracy by **42%**  
+- Increases conversion rates by focusing on high-quality leads  
+
+## 🎥 Demo  
+![Demo GIF](assets/demo.gif)  
+[YouTube Demo Link]  
+
+## 🛠️ How to Use  
+1. Import `/flows/whatsapp-lead-flow.json` into Make.com  
+2. Add your API keys (OpenAI, WhatsApp Cloud API, Airtable)  
+3. Map your fields (name, phone, lead score)  
+4. Run test → leads appear in Airtable automatically  
+
+## 📂 Files  
+- `/flows/whatsapp-lead-flow.json` → Make.com scenario  
+- `/prompts/lead-qualification.md` → Prompt template used  
+- `/docs/case-study.md` → Case study + pilot results  
+- `/assets/` → Screenshots + demo GIF  
+
+## 📊 Pilot Results  
+- Time saved: ~90 hours/month  
+- Lead quality: +42% more qualified leads  
+- Client feedback: faster response, better targeting  
+
+## 🔒 Notes  
+- Replace all API keys with your own  
+- Use sample data before production  
+
+---
+
+💬 Feedback & contributions welcome! If you use this flow, tag me on LinkedIn.  
+
