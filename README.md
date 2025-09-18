@@ -1,39 +1,39 @@
-# AI WhatsApp Lead Automation 🚀  
+# Hi, I'm Shivam 👋  
 
-## 📌 What is this?  
-A **no-code automation** using **Make.com + AI enrichment** that captures leads from WhatsApp, qualifies them with AI, and pushes them into Airtable/CRM.  
+🚀 **AI Automation Specialist | Generative AI | No-Code Builder**  
 
-## 💡 Why it matters  
-- Saves manual lead entry time (~90 hours/month)  
-- Improves qualification accuracy by **42%**  
-- Increases conversion rates by focusing on high-quality leads  
-
-## 🎥 Demo  
-![Demo GIF](assets/demo.gif)  
-[YouTube Demo Link]  
-
-## 🛠️ How to Use  
-1. Import `/flows/whatsapp-lead-flow.json` into Make.com  
-2. Add your API keys (OpenAI, WhatsApp Cloud API, Airtable)  
-3. Map your fields (name, phone, lead score)  
-4. Run test → leads appear in Airtable automatically  
-
-## 📂 Files  
-- `/flows/whatsapp-lead-flow.json` → Make.com scenario  
-- `/prompts/lead-qualification.md` → Prompt template used  
-- `/docs/case-study.md` → Case study + pilot results  
-- `/assets/` → Screenshots + demo GIF  
-
-## 📊 Pilot Results  
-- Time saved: ~90 hours/month  
-- Lead quality: +42% more qualified leads  
-- Client feedback: faster response, better targeting  
-
-## 🔒 Notes  
-- Replace all API keys with your own  
-- Use sample data before production  
+I help businesses automate repetitive work with **Make.com, AI prompt engineering, and no-code workflows**.  
+My focus is on **AI-powered business solutions** that save time, reduce costs, and scale efficiently.  
 
 ---
 
-💬 Feedback & contributions welcome! If you use this flow, tag me on LinkedIn.  
+## 🔧 Skills & Tools  
+- **No-Code AI Automation**: Make.com, Zapier, Airtable, Notion AI  
+- **Generative AI**: Prompt Engineering (OpenAI, Claude, Gemini), Fine-tuning basics  
+- **AI for Business**: Document Q&A, Lead-gen bots, AI email assistants  
+- **Other Tools**: Langflow (RAG no-code), API integrations (Postman basics)  
 
+---
+
+## 📂 Featured Projects  
+- [AI WhatsApp Lead Automation](https://github.com/username/ai-whatsapp-leads) → +42% qualified leads, saved 90 hours/month  
+- [AI Invoice Processor](https://github.com/username/ai-invoice-automation) → 72h → 4h processing time  
+- [Prompt Pack: Marketing](https://github.com/username/ai-marketing-prompts) → 20+ reusable business prompts  
+
+---
+
+## 📊 What I Share  
+- **Automation templates** (Make.com JSON, Airtable setups)  
+- **Prompt libraries** for business workflows  
+- **Case studies** with real metrics  
+- **Quick demos** (GIFs, 30s videos)  
+
+---
+
+## 🌍 Connect with Me  
+- LinkedIn: [Your LinkedIn URL]  
+- Email: your@email.com  
+- Featured posts & demos: check my repos  
+
+---
+⭐️ If you like my automations, feel free to star ⭐ my repos or connect!
